@@ -1,4 +1,4 @@
-### Hi there!
+### Hey, I'm Hazar!
 
 ### 🤖 About Me
 I'm a Robotics Engineer with a focus on autonomous robotics in construction. Currently, I'm a researcher at RWTH Aachen University, where I'm exploring innovative ways to improve efficiency and safety on construction sites.
