@@ -10,7 +10,7 @@ I'm a Robotics Engineer with a focus on autonomous robotics in construction. Cur
 - **Building Information Modelling (BIM)**
 
 ### 📚 Current Research
-My current research involves leveraging linked data to enhance the capabilities of autonomous robots in construction. The goal is to explore new ways of using Building Information Models / Linked Building Data towards this purpose .
+My current research involves leveraging linked data to enhance the capabilities of autonomous robots in construction. The goal is to explore new ways of using Building Information Models / Linked Building Data to this end.
 
 ## My top skills
 <table>
