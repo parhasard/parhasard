@@ -1,6 +1,4 @@
 ### Hi there!
-# [Hazar Karadag]
-## Robotics Engineer & Researcher at RWTH Aachen University 🎓
 
 ### 🤖 About Me
 I'm a Robotics Engineer with a focus on autonomous robotics in construction. Currently, I'm a researcher at RWTH Aachen University, where I'm exploring innovative ways to improve efficiency and safety on construction sites.
@@ -37,7 +35,7 @@ My current research involves leveraging linked data to enhance the capabilities 
       </td>
        <td width="16%" align="center">
         <span>Linux</span><br><br>
-        <img height="84px" src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg">
+        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg">
       </td>
       <td width="14%" align="center">
         <span>Semantic Web</span><br><br>
