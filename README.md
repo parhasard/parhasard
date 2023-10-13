@@ -33,9 +33,9 @@ My current research involves leveraging linked data to enhance the capabilities 
         <span>ROS</span><br><br>
         <img height="84px" src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg">
       </td>
-       <td width="16%" align="center">
+       <td width="14%" align="center">
         <span>Linux</span><br><br>
-        <img height="84px" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Linux_Logo_in_Linux_Libertine_Font.svg">
+        <img height="84px" src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Icons8_flat_linux.svg">
       </td>
       <td width="14%" align="center">
         <span>Semantic Web</span><br><br>
