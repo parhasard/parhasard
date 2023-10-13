@@ -35,7 +35,7 @@ My current research involves leveraging linked data to enhance the capabilities 
       </td>
        <td width="16%" align="center">
         <span>Linux</span><br><br>
-        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg">
+        <img height="84px" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Linux_Logo_in_Linux_Libertine_Font.svg">
       </td>
       <td width="14%" align="center">
         <span>Semantic Web</span><br><br>
