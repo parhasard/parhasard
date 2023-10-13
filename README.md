@@ -5,7 +5,6 @@ I'm a Robotics Engineer with a focus on autonomous robotics in construction. Cur
 
 ### 🌟 Interests
 - **Robotics**
-- **Linked Data**
 - **Web Development**
 - **Linked Data**
 - **Building Information Modelling (BIM)**
