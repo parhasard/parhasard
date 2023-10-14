@@ -13,8 +13,8 @@ I'm a Robotics Engineer with a focus on autonomous robotics in construction. Cur
 My current research involves leveraging linked data to enhance the capabilities of autonomous robots in construction. I aim to explore new ways of using Building Information Models and Linked Building Data to this end.
 
 ## My top skills
-<p><a href='https://www.w3.org/2001/sw/wiki/Main_Page' target="_blank"><img alt='semantic web' src='https://img.shields.io/badge/Semantic_Web-100000?style=for-the-badge&logo=semantic web&logoColor=000000&labelColor=FFFFFF&color=black'/></a></p>
-
+<p><a href='https://www.w3.org/2001/sw/wiki/Main_Page' target="_blank"><img alt='semantic web' src='https://img.shields.io/badge/Semantic_Web-100000?style=for-the-badge&logo=semantic web&logoColor=000000&labelColor=000000&color=white'/></a></p>
+<p><a href='https://www.linuxfoundation.org/' target="_blank"><img alt='linux' src='https://img.shields.io/badge/Linux-100000?style=for-the-badge&logo=linux&logoColor=000000&labelColor=FCC624&color=FCC624'/></a></p>
 <table>
   <tbody>
     <tr valign="top">
