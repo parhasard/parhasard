@@ -12,44 +12,8 @@ I'm a Robotics Engineer with a focus on autonomous robotics in construction. Cur
 ### 📚 Current Research
 My current research involves leveraging linked data to enhance the capabilities of autonomous robots in construction. I aim to explore new ways of using Building Information Models and Linked Building Data to this end.
 
-## My top skills
-<p><a href='https://www.w3.org/2001/sw/wiki/Main_Page' target="_blank"><img alt='semantic web' src='https://img.shields.io/badge/Semantic_Web-100000?style=for-the-badge&logo=semantic web&logoColor=000000&labelColor=000000&color=white'/></a></p>
-<p><a href='https://www.linuxfoundation.org/' target="_blank"><img alt='linux' src='https://img.shields.io/badge/Linux-100000?style=for-the-badge&logo=linux&logoColor=000000&labelColor=FCC624&color=FCC624'/></a></p>
-
-<table>
-  <tbody>
-    <tr valign="top">
-      <td width="14%" align="center">
-        <span>JavaScript</span><br><br> 
-        <img height="84px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg">
-      </td>
-      <td width="14%" align="center">
-        <span>Vue</span><br><br>
-        <img height="84px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg">        
-      </td>
-      <td width="14%" align="center">
-        <span>Nuxt</span><br><br>
-        <img height="84px" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Nuxt_logo.svg">
-      </td>
-      <td width="14%" align="center">
-        <span>ROS</span><br><br>
-        <img height="84px" src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg">
-      </td>
-       <td width="14%" align="center">
-        <span>Linux</span><br><br>
-        <img height="84px" src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Icons8_flat_linux.svg">
-      </td>
-      <td width="14%" align="center">
-        <span>Semantic Web</span><br><br>
-        <img height="84px" src="https://www.w3.org/Icons/SW/sw-cube-v.svg">
-      </td>
-      <td width="14%" align="center">
-        <span>Python</span><br><br>
-        <img height="84px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg">
-      </td> 
-    </tr>
-  </tbody>
-</table>
+## My top skills & Interests
+<p><a href='https://www.w3schools.com/js/' target="_blank"><img alt='javascript' src='https://img.shields.io/badge/JAVASCRIPT-100000?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=FFDF00&color=FFDF00'/></a> <a href='https://vuejs.org/' target="_blank"><img alt='vue.js' src='https://img.shields.io/badge/VUE.JS-100000?style=for-the-badge&logo=vue.js&logoColor=4FC08D&labelColor=34495E&color=34495E'/></a> <a href='https://nuxt.com/' target="_blank"><img alt='nuxt.js' src='https://img.shields.io/badge/nuxt.JS-100000?style=for-the-badge&logo=nuxt.js&logoColor=08DD86&labelColor=FFFFFF&color=FFFFFF'/></a> <a href='https://www.python.org/' target="_blank"><img alt='Python' src='https://img.shields.io/badge/PYTHON-100000?style=for-the-badge&logo=Python&logoColor=FFDD54&labelColor=3670A0&color=3670A0'/></a> <a href='https://www.ros.org/' target="_blank"><img alt='ROS' src='https://img.shields.io/badge/ros-100000?style=for-the-badge&logo=ROS&logoColor=293754&labelColor=FFFFFF&color=FFFFFF'/></a>  <a href='https://www.linuxfoundation.org/' target="_blank"><img alt='semantic web' src='https://img.shields.io/badge/Semantic_Web-100000?style=for-the-badge&logo=semantic web&logoColor=000000&labelColor=FFFFFF&color=FFFFFF'/></a> <a href='https://www.w3schools.com/js/' target="_blank"><img alt='linux' src='https://img.shields.io/badge/Linux-100000?style=for-the-badge&logo=linux&logoColor=000000&labelColor=FCC624&color=FCC624'/></a> </p>
 
 
 
