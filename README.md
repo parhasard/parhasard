@@ -18,4 +18,6 @@ My current research involves leveraging linked data to enhance the capabilities 
 
 
 ### 📫 Contact
-Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/hazar-karadag/).
+Feel free to reach out to me on: 
+<p><a href='https://www.linkedin.com/in/hazar-karadag/' target="_blank"><img alt='Linkedin' src='https://img.shields.io/badge/LinkedIn-100000?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&labelColor=0A66C2&color=0A66C2'/></a></p>
+
